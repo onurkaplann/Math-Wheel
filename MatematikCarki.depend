@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1532524610 source:c:\users\abra\documents\codeblock\matematikcarki\eispack.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"eispack.h"
+
+1532524612 c:\users\abra\documents\codeblock\matematikcarki\eispack.h
+
+1545246884 source:c:\users\abra\documents\codeblock\matematikcarki\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"eispack.h"
+
